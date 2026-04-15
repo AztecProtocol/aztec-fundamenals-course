@@ -1,4 +1,4 @@
-use crate::{test::utils::{self}, Counter};
+use crate::{test::utils::{self}};
 
 #[test]
 unconstrained fn test_increment_public() {

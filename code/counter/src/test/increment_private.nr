@@ -1,26 +1,4 @@
-use crate::{test::utils::{self}, Counter};
-use aztec::{
-    oracle::logging::debug_log_format,
-    protocol::{traits::ToField},
-};
-
-// #[test]
-// unconstrained fn test_default_value() {
-//     let (mut env, counter_contract_address) = utils::deploy_counter_contract();
-//      let user = env.create_light_account();
-//     let counter_value = utils::get_private_counter(&mut env, counter_contract_address, user);
-
-//     debug_log_format("counter value {0}", [counter_value.to_field()]);
-
-//     // now decrement
-//     let decrement_call_private = Counter::at(counter_contract_address).decrement_private(user);
-//     env.call_private(
-//         // who is calling
-//         user,
-//         // what is the calldata (fn and inputs)
-//         decrement_call_private
-//     );
-// }
+use crate::{test::utils::{self}};
 
 #[test]
 unconstrained fn test_increment_counter() {

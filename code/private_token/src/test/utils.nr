@@ -31,7 +31,7 @@ pub unconstrained fn setup(
         18,
         owner,
     );
-    let token_contract_address = env.deploy("@token_contract/Token").with_public_initializer(
+    let token_contract_address = env.deploy("@private_token/Token").with_public_initializer(
         owner,
         initializer_call_interface,
     );

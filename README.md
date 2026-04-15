@@ -10,23 +10,32 @@ Welcome to the Aztec fundamentals course. This course will teach you everything 
         <img src="/img/thumbnail.png" width="145" alt=""/></a>
 </p>
 
-Welcome to the repository for the Blockchain Basics Course!
+Welcome to the repository for the Aztec Fundamentals Course!
 
 This repository houses course resources and [discussions](https://github.com/AztecProtocol/aztec-fundamentals-course/discussions) for the course.
 
-## Contents 
+## Contents
+
+- [Helpful Resources](#helpful-resources)
+- [Course Prerequisites](#course-prerequisites)
+- [Deployment Steps](#deployment-steps)
+- [Section 0: Welcome](#section-0)
+- [Section 1: What is Aztec?](#section-1)
+- [Section 2: Private Counter](#section-2)
+- [Section 3: Private Token](#section-3)
+- [Section 4: Well Done!](#section-4)
 
 ## Helpful resources
 
-- Noir Discord (for developer help)
-- Aztec Discord (for community)
-- Aztec documentation
-- Noir documentation
-- Awesome Aztec
-- Aztec starter repo
-- Aztec Standards
+- [Noir Discord](https://discord.gg/noir-lang) (for developer help)
+- [Aztec Discord](https://discord.gg/aztec) (for community)
+- [Aztec documentation](https://docs.aztec.network/)
+- [Noir documentation](https://noir-lang.org/docs/)
+- [Awesome Aztec](https://github.com/AztecProtocol/awesome-aztec)
+- [Aztec starter repo](https://github.com/AztecProtocol/aztec-starter)
+- [Aztec Standards](https://github.com/defi-wonderland/aztec-standards)
 
-The code is also in this repository.
+The code is also in [this repository](https://github.com/AztecProtocol/aztec-fundamentals-course/tree/main/code).
 
 ## Course Prerequisites
 
@@ -34,17 +43,17 @@ This course is targeted at intermediate Solidity developers. Of course, if this 
 
 - What a blockchain is
 - What a zero-knowledge proof is
-- [Merkle Trees]()
-- Understand hash functions and how they can be used for [commitments]()
+- [Merkle Trees](https://youtube.com/watch?reload=9&v=s7C2KjZ9n2U)
+- Understand hash functions and how they can be used for [commitments](https://en.wikipedia.org/wiki/Commitment_scheme)
 - What a nullifier is 
 - How state works on Ethereum
 - EVM smart contract development preferred
 
 If you would prefer, you can watch the following courses (for free) on Cyfrin Updraft to get up to speed beforehand:
-- Blockchain Basics
-- Solidity
-- Foundry Beginner
-- Foundary Advances
+- [Blockchain Basics](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Solidity](https://updraft.cyfrin.io/courses/solidity)
+- [Foundry Beginner](https://updraft.cyfrin.io/courses/foundry)
+- [Foundry Advanced](https://updraft.cyfrin.io/courses/advanced-foundry)
 
 ## Deployment Steps 
 
@@ -101,18 +110,19 @@ This section is just a welcome to the course
 What is Aztec and how does it work?
 
 - Account abstraction refresher video
-- 45 min course on zero-knowldge proofs
+- 45 min course on zero-knowledge proofs
 
 ## Section 2
 
-Build a private counter smart contract.
+Build a private counter smart contract. [Code](https://github.com/AztecProtocol/aztec-fundamentals-course/tree/main/code/counter)
 
-- Finite fields refresher video
+- [Modular arithmetic](https://youtu.be/mBDaDGBOu-E?si=NfZ4hLF2AO5hbM9O)
+- [Finite fields refresher video](https://youtu.be/7XNnds4JKZw?si=tvGa5pnGBEEo-EtJ)
 - [Grego Juice Bridge to get fee juice](https://gregoswap.anothercoffeefor.me/) on Testnet
 
 ## Section 3
 
-Build a private token smart contract.
+Build a private token smart contract. [Code](https://github.com/AztecProtocol/aztec-fundamentals-course/tree/main/code/private_token)
 
 ## Section 4
 
