@@ -7,7 +7,7 @@ Welcome to the Aztec fundamentals course. This course will teach you everything 
 <p align="center">
     <br />
     <a href="">
-        <img src="/img/thumbnail.png" width="145" alt=""/></a>
+        <img src="/img/thumbnail.png" width="500" alt=""/></a>
 </p>
 
 Welcome to the repository for the Aztec Fundamentals Course!
