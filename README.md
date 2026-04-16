@@ -34,7 +34,7 @@ This repository houses course resources and [discussions](https://github.com/Azt
 - [Awesome Aztec](https://github.com/AztecProtocol/awesome-aztec)
 - [Aztec starter repo](https://github.com/AztecProtocol/aztec-starter)
 - [Aztec Standards](https://github.com/defi-wonderland/aztec-standards)
-- [WHAT IS ALPHA](https://aztec.network/blog/critical-vulnerability-in-alpha-v4)
+- [WHAT IS ALPHA](https://aztec.network/blog/announcing-the-alpha-network)
 
 The code is also in [this repository](https://github.com/AztecProtocol/aztec-fundamentals-course/tree/main/code).
 
@@ -110,9 +110,9 @@ This section is just a welcome to the course
 
 What is Aztec and how does it work?
 
-- Account abstraction refresher video
-- 45 min course on zero-knowledge proofs
-- [What is alpha](https://aztec.network/blog/critical-vulnerability-in-alpha-v4)
+- [Account abstraction refresher video](https://www.youtube.com/watch?v=PZ8svp68NXM)
+- [45 min course on zero-knowledge proofs](https://www.youtube.com/watch?v=i2FZJBHhy2U)
+- [What is alpha](https://aztec.network/blog/announcing-the-alpha-network)
 
 ## Section 2
 
