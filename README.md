@@ -24,6 +24,7 @@ This repository houses course resources and [discussions](https://github.com/Azt
 - [Section 2: Private Counter](#section-2)
 - [Section 3: Private Token](#section-3)
 - [Section 4: Well Done!](#section-4)
+- [Thank you](#thank-you)
 
 ## Helpful resources
 
@@ -132,3 +133,11 @@ Well done:)
 
 Send a Tweet/post to let us know you completed the course!!
 
+## Thank you
+
+I just wanted to say a massive thank you to the following people:
+- The entire Aztec team for making this possible (namely [Nico](https://x.com/mrnventuro), [Grego](https://github.com/Thunkar), [Jan](https://x.com/janbenes16), [Maddiaa](https://x.com/Maddiaa0), [Niall](https://x.com/niallinio) and [Alejo](https://x.com/alejoamiras) for answering millions of questions)
+- Jess for her help with editing (she is awesome)
+- Patrick Collins for supporting me in creating long form content (the structure is inspired by courses from Cyfrin Updraft)
+- Josh: devrel at Aztec for his fab AI resources and docs
+- The Wonderland team for their learning resources and codebase I modified :)
