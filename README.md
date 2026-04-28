@@ -127,6 +127,7 @@ Build a private counter smart contract. [Code](https://github.com/AztecProtocol/
 
 Build a private token smart contract. [Code](https://github.com/AztecProtocol/aztec-fundamentals-course/tree/main/code/private_token)
 
+**Correction**: In this course we did not cover private events. To learn how to emit private events, visit the [events and logs documentation](https://docs.aztec.network/developers/docs/aztec-nr/framework-description/events_and_logs).
 ## Section 4
 
 Well done:)
